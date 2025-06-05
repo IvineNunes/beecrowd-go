@@ -23,7 +23,8 @@ O objetivo é praticar lógica de programação, algoritmos e estruturas de dado
 ┃ ┣ 📂iniciante
 ┃ ┣ 📂estruturas
 ┃ ┣ 📂strings
-┃ ┗ 📂matematica```  
+┃ ┗ 📂matematica
+```  
 
 ### 🤝 Contribuições
 
