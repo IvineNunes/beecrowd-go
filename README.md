@@ -19,7 +19,6 @@ O objetivo é praticar lógica de programação, algoritmos e estruturas de dado
 ## 📁 Estrutura do Repositório
 ```
 📦beecrowd-em-go
-┣ 📂src
 ┃ ┣ 📂iniciante
 ┃ ┣ 📂estruturas
 ┃ ┣ 📂strings
