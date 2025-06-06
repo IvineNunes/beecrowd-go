@@ -1,7 +1,7 @@
-package main
+package bee
 
 import "fmt"
 
-func main() {
+func Atv1000() {
 	fmt.Println("Hello World!")
 }
